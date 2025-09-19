@@ -1,0 +1,107 @@
+[
+  {
+    "cpf": "04318073025",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04324948046",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Consulta realizada",
+    "informacao": "Cliente não autorizou a instituição financeira a realizar a consulta."
+  },
+  {
+    "cpf": "04327987905",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Consulta realizada",
+    "informacao": "Cliente não autorizou a instituição financeira a realizar a consulta."
+  },
+  {
+    "cpf": "04328592254",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04345760003",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04349351582",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04349116079",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Consulta realizada",
+    "informacao": "Existe uma Operação Fiduciária em andamento. Tente mais tarde."
+  },
+  {
+    "cpf": "04349575189",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04360376103",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04387340762",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04403388914",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04428276524",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04432646004",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04435561727",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  },
+  {
+    "cpf": "04436593975",
+    "saldoBruto": 0,
+    "valorLiberado": 0,
+    "situacao": "Erro",
+    "informacao": "Excedido o limite de requisições (máximo de 1 por segundo)."
+  }
+]
